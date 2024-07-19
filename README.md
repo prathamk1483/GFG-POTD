@@ -21,7 +21,7 @@ This repository is dedicated to providing well-structured, efficient, and thorou
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/GFG-POTD-Solutions.git
+    git clone https://github.com/prathamk1483/GFG-POTD.git
     cd GFG-POTD-Solutions
     ```
 
