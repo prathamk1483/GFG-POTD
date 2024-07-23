@@ -9,7 +9,6 @@ Welcome to the ultimate repository for **Geeks for Geeks Problem of the Day** (P
 - [About](#about)
 - [Getting Started](#getting-started)
 - [Solutions](#solutions)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
@@ -35,22 +34,7 @@ This repository is dedicated to providing well-structured, efficient, and thorou
 
 ## Solutions
 
-Explore the collection of solutions organized by date and problem title. Each solution includes:
-- A detailed explanation of the approach
-- Time and space complexity analysis
-- Example test cases
-
 Check out the [Solutions Directory](./solutions) for a complete list.
-
-## Contributing
-
-We welcome contributions from the community! If you have a better solution, found a bug, or have suggestions, please follow these steps:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/your-feature`)
-3. Commit your changes (`git commit -m 'Add a new solution for POTD XYZ'`)
-4. Push to the branch (`git push origin feature/your-feature`)
-5. Open a pull request
 
 ## License
 
@@ -60,8 +44,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or suggestions, feel free to reach out:
 
-- Email: [your-email@example.com](mailto:kubetkarpratham14@gmail.com)
-- GitHub: [yourusername](https://github.com/prathamk1483)
+- Email: [your-kubetkarpratham14@gmail.com](mailto:kubetkarpratham14@gmail.com)
+- GitHub: [prathamk1483](https://github.com/prathamk1483)
 
 ---
 
